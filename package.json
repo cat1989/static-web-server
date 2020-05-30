@@ -1,0 +1,22 @@
+{
+  "name": "static-web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cat1989/static-web-server.git"
+  },
+  "author": "cat1989",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cat1989/static-web-server/issues"
+  },
+  "homepage": "https://github.com/cat1989/static-web-server#readme",
+  "dependencies": {
+    "mime": "^2.4.6"
+  }
+}
